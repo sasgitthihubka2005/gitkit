@@ -1,0 +1,123 @@
+body{
+   
+    background-size: cover;
+    background-position: center;
+}
+.fheading{
+    color: aliceblue;
+    display:grid;
+    font-size:x-large;
+    grid-template-columns: auto auto auto auto auto auto;
+    background-color: #250821;
+}
+.name{
+    color:red;
+}
+
+.glass{
+    padding: 150px;
+}
+.rule{
+    background-color:indianred;
+    padding:10px;
+
+}
+.nam{
+    
+    margin-left: 200px;
+    
+}
+.cute{
+  background-color:rosybrown;
+    padding:10px;
+ 
+
+}
+.wf{
+    display: flex;
+    
+}
+.ach{
+    
+    text-align: center;
+    color:white;
+    
+}
+.some{
+    text-align: center;
+    color:white;
+
+}
+.team{
+    text-align: center;
+    background-color:palegoldenrod;
+    padding:10px;
+
+}
+.so{
+    text-align: center;
+    width:300px;
+
+}
+.dora{
+    text-align: center;
+    background-color:palegoldenrod;
+    padding: 10px;
+}
+.frame{
+    text-align: center;
+    padding:10px
+}
+.nr{
+    background-color:palegoldenrod;
+    padding: 10px;
+    text-align: center;
+}
+
+    
+
+.nivi{
+    width:300px
+}
+
+ .kill{
+    text-align: center;
+ }
+ .ls{
+    padding:30px;
+    
+ }
+    .lang{
+        padding-left: 200px;
+    }
+    .you{
+        background-color:#250821;
+        padding-left:100px;
+        padding-top: 10px;
+        color: antiquewhite;
+    }
+     .html{
+        padding-top: 20px;
+     }
+     .god{
+        display: flex;
+     }
+     
+     .technic{
+        padding-top:60px;
+        padding-right: 100px;
+     }
+     
+     
+    .black{
+        background-color:crimson;
+        padding: 10px;
+        text-align: center;
+    }
+    .siva{
+       padding-left:250px;
+       
+    }
+    img{
+        width: fit-content;
+    }
